@@ -10,15 +10,15 @@ I'm a Statistics student at the University of Toronto specializing in Machine Le
 
 - 🎓 Scholarship Matching AI  
   → Built a machine learning system to match students with scholarships  
-  → Tech: Python, Django, ML models  
+  → Tech: Java, Django
 
-- 🌱 Eco Tracker  
+- 🌱 Planetze Eco Tracker  
   → Tracks carbon emissions based on user habits  
-  → Tech: Firebase, JavaScript  
+  → Tech: Java, Firebase  
 
 - 📈 Stock Volatility Analysis  
-  → Compared ARIMA, GARCH, LSTM models  
-  → Focus on time series forecasting
+  → Focus on time series forecasting, compared ARIMA, GARCH, LSTM models  
+  → Tech: Python, PyTorch, NumPy
 
 ## 📫 Connect with me
 - LinkedIn: [www.linkedin.com/in/trishana-rammohan]
