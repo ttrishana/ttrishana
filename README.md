@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Trishana :) (this is in progress)
+I'm a Statistics student at the University of Toronto specializing in Machine Learning and Data Science.
 
-<!--
-**ttrishana/ttrishana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Interested in Software Engineering + AI
+- 📊 Strong foundation in data, algorithms, and systems
+- 🌱 Currently learning: Data Structures, System Design, Cloud
+- 🎨 Hobbies: Painting, Drawing, Badminton, Fitness, Gaming (run val?)
 
-Here are some ideas to get you started:
+## 🔥 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Scholarship Matching AI  
+  → Built a machine learning system to match students with scholarships  
+  → Tech: Python, Django, ML models  
+
+- 🌱 Eco Tracker  
+  → Tracks carbon emissions based on user habits  
+  → Tech: Firebase, JavaScript  
+
+- 📈 Stock Volatility Analysis  
+  → Compared ARIMA, GARCH, LSTM models  
+  → Focus on time series forecasting
+
+## 📫 Connect with me
+- LinkedIn: [www.linkedin.com/in/trishana-rammohan]
+- Email: trishana.rammohan@mail.utoronto.ca
