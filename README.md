@@ -23,3 +23,5 @@ I'm a Statistics student at the University of Toronto specializing in Machine Le
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/trishana-rammohan
 - Email: trishana.rammohan@mail.utoronto.ca
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ttrishana)
