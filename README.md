@@ -1,4 +1,4 @@
-## Hi, I'm Trishana :) (this is in progress)
+## Hi, I'm Trishana :)
 i <3 ml
 
 - 📊 Strong foundation in data, algorithms, and systems
@@ -25,4 +25,6 @@ i <3 ml
 - Instagram: @trishana.idk
 
 ![Alt text](grovyle.jpeg)
+
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ttrishana)
