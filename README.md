@@ -1,12 +1,11 @@
 ## Hi, I'm Trishana :) (this is in progress)
-I'm a Statistics student at the University of Toronto specializing in Machine Learning and Data Science.
+i <3 ml
 
-- 💻 Interested in Software Engineering + AI
 - 📊 Strong foundation in data, algorithms, and systems
-- 🌱 Currently learning: Data Structures, System Design, Cloud
+- 🌱 Currently learning: Data Structures, System Design, Regression!
 - 🎨 Hobbies: Painting, Drawing, Badminton, Fitness, Gaming (run val?)
 
-## 🔥 Projects
+## Some of my projects!
 
 - 🎓 Scholarship Matching AI  
   → Built a machine learning system to match students with scholarships  
