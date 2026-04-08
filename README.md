@@ -24,4 +24,5 @@ i <3 ml
 - Email: trishana.rammohan@mail.utoronto.ca
 - Instagram: @trishana.idk
 
+![Alt text](grovyle.jpeg)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ttrishana)
