@@ -9,7 +9,7 @@ i <3 ml
 
 - 🎓 Scholarship Matching AI  
   → Built a machine learning system to match students with scholarships  
-  → Tech: Java, Django
+  → Tech: Python, Django, MySQL
 
 - 🌱 Planetze Eco Tracker  
   → Tracks carbon emissions based on user habits  
