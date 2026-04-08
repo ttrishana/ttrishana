@@ -8,15 +8,15 @@ i <3 ml
 ## Some of my projects!
 
 - 🎓 Scholarship Matching AI  
-  → Built a machine learning system to match students with scholarships  
+  → Built the backend for a recommendation system to match students with scholarships  
   → Tech: Python, Django, MySQL
 
 - 🌱 Planetze Eco Tracker  
-  → Tracks carbon emissions based on user habits  
-  → Tech: Java, Firebase  
+  → Android App that tracks carbon emissions based on user habits  
+  → Tech: Java, Firebase, Android Studio
 
 - 📈 Stock Volatility Analysis  
-  → Focus on time series forecasting, compared ARIMA, GARCH, LSTM models  
+  → Focus on time series forecasting using historical yfinance tickers, compared ARIMA, GARCH, LSTM models  
   → Tech: Python, PyTorch, NumPy
 
 ## 📫 Connect with me
