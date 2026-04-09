@@ -20,6 +20,10 @@ i <3 creation
   → built the backend for a recommendation system to match students with scholarships  
   → tech: python, django, mysql
 
+- 🎶 air theremin / dj looper hand tracker  
+  → real-time gesture-controlled audio system using computer vision to modulate sound and trigger beats  
+  → tech: python, opencv, computer vision, audio processing
+
 - 🌱 planetze eco tracker  
   → android app that tracks carbon emissions based on user habits  
   → tech: java, firebase, android studio
