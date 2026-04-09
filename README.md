@@ -31,7 +31,6 @@ i <3 ml
 ## 📫 connect with me
 - linkedin (checked infrequently for my own sanity): www.linkedin.com/in/trishana-rammohan
 - email: trishana.rammohan@mail.utoronto.ca
-- instagram: @trishana.idk
 
 ![Alt text](grovyle.jpeg)
 
