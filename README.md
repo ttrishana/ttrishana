@@ -9,7 +9,7 @@ i <3 creation
 
 - 🏋️‍♀️ fit bestie  
   → fitness app to help noobs at the gym (like me) structure their routine    
-  → tech: next.js, tailwind css, prisma/supabase, vercel, react native 🔜
+  → tech: next.js/typescript, tailwind css, prisma/supabase, react native 🔜
 
 - 👩 personal website  
   → _desperately need to start this..._
