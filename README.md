@@ -1,18 +1,18 @@
 ## hi, i'm trishana :)
 i <3 ml
 
-- 📊 strong foundation in data, algorithms, and systems
-- 🌱 currently learning: data structures, system design, regression!
+- 📊 strong experience with backend, ml/data, and devops
+- 🌱 currently learning: system design, fullstack, regression, leetcoding (ㅠ﹏ㅠ) 
 - 🎨 hobbies: painting, drawing, badminton, fitness, gaming (run val?)
 
 ## currently working on
 
-- 🏋️‍♀️ fit bestie
-  → fitness app to help noobs at the gym (like me) structure their routine
+- 🏋️‍♀️ fit bestie  
+  → fitness app to help noobs at the gym (like me) structure their routine    
   → tech: next.js, tailwind css, prisma/supabase, vercel, react native 🔜
 
-- 👩 personal website
-  → desperately need to start this...
+- 👩 personal website  
+  → _desperately need to start this..._
 
 ## some of my projects!
 
