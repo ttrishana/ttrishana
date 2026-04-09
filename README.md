@@ -32,10 +32,11 @@ i <3 creation
   → time series forecasting using historical yfinance tickers, compared ARIMA, GARCH, LSTM models  
   → tech: python, pytorch, numpy
 
-## 📫 connect with me! >0<
+## connect with me! >0<
 - linkedin (checked infrequently for my own sanity): www.linkedin.com/in/trishana-rammohan
 - email: trishana.rammohan@mail.utoronto.ca
 
+## words of wisdom from grovyle in mystery dungeons
 ![Alt text](grovyle.jpeg)
 
 
