@@ -1,28 +1,37 @@
-## Hi, I'm Trishana :)
+## hi, i'm trishana :)
 i <3 ml
 
-- 📊 Strong foundation in data, algorithms, and systems
-- 🌱 Currently learning: Data Structures, System Design, Regression!
-- 🎨 Hobbies: Painting, Drawing, Badminton, Fitness, Gaming (run val?)
+- 📊 strong foundation in data, algorithms, and systems
+- 🌱 currently learning: data structures, system design, regression!
+- 🎨 hobbies: painting, drawing, badminton, fitness, gaming (run val?)
 
-## Some of my projects!
+## currently working on
 
-- 🎓 Scholarship Matching AI  
-  → Built the backend for a recommendation system to match students with scholarships  
-  → Tech: Python, Django, MySQL
+- 🏋️‍♀️ fit bestie
+  → fitness app to help noobs at the gym (like me) structure their routine
+  → tech: next.js, tailwind css, prisma/supabase, vercel, react native 🔜
 
-- 🌱 Planetze Eco Tracker  
-  → Android App that tracks carbon emissions based on user habits  
-  → Tech: Java, Firebase, Android Studio
+- 👩 personal website
+  → desperately need to start this...
 
-- 📈 Stock Volatility Analysis  
-  → Focus on time series forecasting using historical yfinance tickers, compared ARIMA, GARCH, LSTM models  
-  → Tech: Python, PyTorch, NumPy
+## some of my projects!
 
-## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/trishana-rammohan
-- Email: trishana.rammohan@mail.utoronto.ca
-- Instagram: @trishana.idk
+- 🎓 scholarship matching ai  
+  → built the backend for a recommendation system to match students with scholarships  
+  → tech: python, django, mysql
+
+- 🌱 planetze eco tracker  
+  → android app that tracks carbon emissions based on user habits  
+  → tech: java, firebase, android studio
+
+- 📈 stock volatility analysis  
+  → time series forecasting using historical yfinance tickers, compared ARIMA, GARCH, LSTM models  
+  → tech: python, pytorch, numpy
+
+## 📫 connect with me
+- linkedin (checked infrequently for my own sanity): www.linkedin.com/in/trishana-rammohan
+- email: trishana.rammohan@mail.utoronto.ca
+- instagram: @trishana.idk
 
 ![Alt text](grovyle.jpeg)
 
