@@ -28,7 +28,7 @@ i <3 ml
   → time series forecasting using historical yfinance tickers, compared ARIMA, GARCH, LSTM models  
   → tech: python, pytorch, numpy
 
-## 📫 connect with me
+## 📫 connect with me! >0<
 - linkedin (checked infrequently for my own sanity): www.linkedin.com/in/trishana-rammohan
 - email: trishana.rammohan@mail.utoronto.ca
 
