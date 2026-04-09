@@ -1,5 +1,5 @@
 ## hi, i'm trishana :)
-i <3 ml
+i <3 creation
 
 - 📊 strong experience with fullstack, ai automation, ml/data, and devops (thank u rbc!)
 - 🌱 currently learning: system design, regression, leetcoding (ㅠ﹏ㅠ) 
