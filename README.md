@@ -3,7 +3,7 @@ i <3 creation
 
 - 📊 strong experience with fullstack, ai automation, ml/data, and devops (thank u rbc!)
 - 🌱 currently learning: system design, regression, leetcoding (ㅠ﹏ㅠ) 
-- 🎨 hobbies: painting, drawing, badminton, fitness, gaming (run val?)
+- 🎨 hobbies: baking, painting, drawing, badminton, fitness, gaming (run val?)
 
 ## currently working on
 
