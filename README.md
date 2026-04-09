@@ -1,7 +1,7 @@
 ## hi, i'm trishana :)
 i <3 ml
 
-- 📊 strong experience with backend, ml/data, and devops
+- 📊 strong experience with backend, ml/data, and devops (thank u rbc!)
 - 🌱 currently learning: system design, fullstack, regression, leetcoding (ㅠ﹏ㅠ) 
 - 🎨 hobbies: painting, drawing, badminton, fitness, gaming (run val?)
 
