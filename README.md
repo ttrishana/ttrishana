@@ -1,7 +1,7 @@
 ## hi, i'm trishana :)
 i <3 solving problems w/ code
 
-- 📊 strong experience with fullstack, ai automation, ml/data, and devops (thank u rbc!)
+- 📊 experience with fullstack, ai automation, ml/data, and devops (thank u rbc!)
 - 🌱 currently learning: system design, regression, leetcoding (ㅠ﹏ㅠ) 
 - 🎨 hobbies: baking, watercolour, drawing, badminton, fitness, gaming (run val?)
 
