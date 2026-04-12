@@ -40,4 +40,3 @@ i <3 solving problems w/ code
 ![Alt text](grovyle.jpeg)
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ttrishana)
