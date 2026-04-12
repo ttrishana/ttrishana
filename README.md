@@ -39,4 +39,4 @@ i <3 solving problems w/ code
 ## words of wisdom from grovyle in mystery dungeons
 ![Alt text](grovyle.jpeg)
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ttrishana)
