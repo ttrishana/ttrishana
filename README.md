@@ -33,7 +33,7 @@ i <3 solving problems w/ code
   → tech: python, pytorch, numpy
 
 ## connect with me! >0<
-- linkedin (checked infrequently for my own sanity): www.linkedin.com/in/trishana-rammohan
+- linkedin: www.linkedin.com/in/trishana-rammohan
 - email: trishana.rammohan@mail.utoronto.ca
 
 ## words of wisdom from grovyle in mystery dungeons
