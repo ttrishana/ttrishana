@@ -12,7 +12,7 @@ i <3 solving problems w/ code
   → tech: next.js/typescript, tailwind css, prisma/supabase, react native 🔜
 
 - 👩 personal website  
-  → _desperately need to start this..._
+  → _currently drawing sprites :P_
 
 ## some of my projects!
 
